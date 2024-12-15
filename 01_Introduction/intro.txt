@@ -1,0 +1,12 @@
+What is Data Structures?
+Data Structures are a way of organizing data in a computer so that it can be used efficiently. 
+
+What is an Algorithm?
+An algorithm is a set of instructions that can be executed to solve a problem.
+
+Why do we need Data Structures and Algorithms?
+Data Structures and Algorithms are essential for solving complex problems.
+They are used in a wide variety of applications, from web development to machine learning. 
+
+What are the benefits of learning Data Structures and Algorithms?
+Learning Data Structures and Algorithms can help you to improve your problem-solving skills, coding skills, ability to write efficient code and more.
