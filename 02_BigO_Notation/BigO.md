@@ -28,7 +28,7 @@
 
 - Example: Imagine you have a box of items, and want to compare each item with every other item. If there are n items, you need to compare n \* n times. This is called `nested loops`, and it results in a time complexity of `O(n^2)`.
 
-- Expolore the example in the `o_of_n_squared.js` file.
+- Explore the example in the `o_of_n_squared.js` file.
 
 ## O(log n)
 
