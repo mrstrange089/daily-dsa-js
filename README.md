@@ -1,6 +1,6 @@
 ## Data Structures & Algorithms with JavaScript 🚀
 
-Welcome to my **Daily DSA journey** using JavaScript. This repository contains daily coding practice and solutions to data structure and algorithm (DSA) problems.
+Welcome to my **60-day DSA journey** using JavaScript. This repository contains daily coding practice and solutions to data structure and algorithm (DSA) problems.
 
 ## 📚 Learning Resources
 
